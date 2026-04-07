@@ -1,4 +1,4 @@
-# packet-tracer-labs
+# Packet-tracer-labs
 Practical networking labs documenting my progression  from basic connectivity to advanced network security  as a career switcher into cloud security
 
 
